@@ -8,7 +8,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/message1"
+        android:text="最近吃过什么水果"
         android:textSize="20sp"/>
 
     <AutoCompleteTextView
@@ -19,7 +19,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/message2"
+        android:text="还吃过什么水果"
         android:textSize="20sp"/>
 
     <MultiAutoCompleteTextView
